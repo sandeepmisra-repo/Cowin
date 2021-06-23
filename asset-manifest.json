@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cowin/static/css/main.f456cbe8.chunk.css",
+    "main.js": "/Cowin/static/js/main.01e2b3df.chunk.js",
+    "main.js.map": "/Cowin/static/js/main.01e2b3df.chunk.js.map",
+    "runtime-main.js": "/Cowin/static/js/runtime-main.95be8158.js",
+    "runtime-main.js.map": "/Cowin/static/js/runtime-main.95be8158.js.map",
+    "static/js/2.a55f8093.chunk.js": "/Cowin/static/js/2.a55f8093.chunk.js",
+    "static/js/2.a55f8093.chunk.js.map": "/Cowin/static/js/2.a55f8093.chunk.js.map",
+    "static/js/3.d4a816ec.chunk.js": "/Cowin/static/js/3.d4a816ec.chunk.js",
+    "static/js/3.d4a816ec.chunk.js.map": "/Cowin/static/js/3.d4a816ec.chunk.js.map",
+    "index.html": "/Cowin/index.html",
+    "static/css/main.f456cbe8.chunk.css.map": "/Cowin/static/css/main.f456cbe8.chunk.css.map",
+    "static/js/2.a55f8093.chunk.js.LICENSE.txt": "/Cowin/static/js/2.a55f8093.chunk.js.LICENSE.txt",
+    "static/media/corona.6681a61d.svg": "/Cowin/static/media/corona.6681a61d.svg",
+    "static/media/svgback.3f3cb9a5.svg": "/Cowin/static/media/svgback.3f3cb9a5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95be8158.js",
+    "static/js/2.a55f8093.chunk.js",
+    "static/css/main.f456cbe8.chunk.css",
+    "static/js/main.01e2b3df.chunk.js"
+  ]
+}
